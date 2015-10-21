@@ -26,7 +26,7 @@
             android:padding="10dp"
             android:hint="Username"
             android:textColorHint="#cccccc"
-            android:drawableLeft="@drawable/identity18dp"/>
+            />
         <EditText
             android:id="@+id/passwordLogin"
             android:layout_width="match_parent"
@@ -37,7 +37,7 @@
             android:hint="Password"
             android:textColorHint="#cccccc"
             android:password="true"
-            android:drawableLeft="@drawable/lock18dp"/>
+            />
         <Button
             android:id="@+id/loginButton"
             android:layout_width="match_parent"
